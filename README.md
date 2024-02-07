@@ -21,7 +21,8 @@ Independent of the fuel type, the supplier offers the following quantity discoun
 <img width="298" alt="image" src="https://github.com/Tianzi0521/Projects-in-JHU/assets/142115795/a7c0b439-905a-4f3e-b3da-2ea4db708f65">
 
 Based on the data provided, we conducted the following analysis:
-Fuel consumption patterns of different gas stations,
-Fuel purchasing behaviors of different gas stations, and
-Relationships or joint movements between consumption and purchasing.
+
+(1)Fuel consumption patterns of different gas stations, 
+(2)Fuel purchasing behaviors of different gas stations, and 
+(3)Relationships or joint movements between consumption and purchasing. 
 
