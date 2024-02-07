@@ -16,6 +16,8 @@ On the one hand, frequent replenishment in small quantities is attractive as it 
 fuel inventory. On the other hand, larger and less frequent deliveries may qualify the gas station for the
 quantity discount at every fuel replenishment offered by its supplier(s).
 Independent of the fuel type, the supplier offers the following quantity discounts:
+
+
 <img width="298" alt="image" src="https://github.com/Tianzi0521/Projects-in-JHU/assets/142115795/a7c0b439-905a-4f3e-b3da-2ea4db708f65">
 
 Based on the data provided, we conducted the following analysis:
